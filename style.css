@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    width: 150px;
+}
+
+main {
+    margin-top: 100px;
+}
+
+.logo-bottom {
+    width: 100px;
+}
+
+.description {
+    text-align: right;
+}
+
+header {
+    box-shadow: 0.5px 0 20px rgba(122,122,122,0.2);
+}
+
+footer {
+    box-shadow: 0.5px 0 20px rgba(122,122,122,0.2);
+}
